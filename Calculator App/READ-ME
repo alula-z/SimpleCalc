@@ -1,0 +1,5 @@
+Title : Calculator
+
+Description:
+This is a copy of the apple calculator app which does basic functions (addition, subtraction, multiplication, and division). A user can input
+numbers wether decimal or integer as well as make long formulas. This was created using swiftui on xcode.
