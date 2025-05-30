@@ -1,5 +1,65 @@
-Title : Calculator
+# SimpleCalc
 
-Description:
-This is a copy of the apple calculator app which does basic functions (addition, subtraction, multiplication, and division). A user can input
-numbers wether decimal or integer as well as make long formulas. This was created using swiftui on xcode.
+A basic calculator app built with SwiftUI as part of my iOS development learning journey.
+
+## Overview
+
+SimpleCalc is a straightforward calculator application that performs basic arithmetic operations. This project helped me understand SwiftUI fundamentals, state management, and mobile app UI design principles.
+
+## Features
+
+- ✅ Basic arithmetic operations (addition, subtraction, multiplication, division)
+- ✅ Clean, intuitive SwiftUI interface
+- ✅ Real-time calculation display
+- ✅ Clear/reset functionality
+
+## Screenshots
+
+*[Add screenshots of your app here when available]*
+
+## Technologies Used
+
+- **SwiftUI** - For building the user interface
+- **Swift** - Primary programming language
+- **Xcode** - Development environment
+
+## Current Status
+
+This is a learning project and is currently **in development**. The core functionality works, but there are some known issues I'm working to resolve.
+
+### Known Issues
+
+- [ ] Decimal point calculations may produce unexpected results
+- [ ] Multiple operator presses can cause display errors
+- [ ] Large number calculations need better formatting
+- [ ] Edge cases with division by zero handling
+
+### Planned Improvements
+
+- [ ] Fix decimal point calculation logic
+- [ ] Improve error handling for edge cases
+- [ ] Add memory functions (M+, M-, MR, MC)
+- [ ] Implement calculation history
+- [ ] Add haptic feedback
+- [ ] Improve accessibility features
+
+## Learning Outcomes
+
+Through building this calculator, I gained experience with:
+
+- SwiftUI layout system and modifiers
+- State management with `@State` property wrappers
+- Handling user input and updating UI reactively
+- iOS app architecture and design patterns
+- Debugging and testing iOS applications
+
+## Installation & Usage
+
+1. Clone this repository
+2. Open `SimpleCalc.xcodeproj` in Xcode
+3. Build and run on iOS Simulator or device (iOS 14.0+)
+
+## Future Plans
+
+This calculator serves as a foundation for exploring more advanced iOS development concepts. I plan to continue refining it while working on more complex projects.
+
