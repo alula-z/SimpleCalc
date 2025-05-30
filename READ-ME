@@ -29,19 +29,19 @@ This is a learning project and is currently **in development**. The core functio
 
 ### Known Issues
 
-- [ ] Decimal point calculations may produce unexpected results
-- [ ] Multiple operator presses can cause display errors
-- [ ] Large number calculations need better formatting
-- [ ] Edge cases with division by zero handling
+- Decimal point calculations may produce unexpected results
+- Multiple operator presses can cause display errors
+- Large number calculations need better formatting
+- Edge cases with division by zero handling
 
 ### Planned Improvements
 
-- [ ] Fix decimal point calculation logic
-- [ ] Improve error handling for edge cases
-- [ ] Add memory functions (M+, M-, MR, MC)
-- [ ] Implement calculation history
-- [ ] Add haptic feedback
-- [ ] Improve accessibility features
+- Fix decimal point calculation logic
+- Improve error handling for edge cases
+- Add memory functions (M+, M-, MR, MC)
+- Implement calculation history
+- Add haptic feedback
+- Improve accessibility features
 
 ## Learning Outcomes
 
